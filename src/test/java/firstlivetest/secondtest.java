@@ -16,5 +16,6 @@ public class secondtest {
 		Thread.sleep(2000);
 		driver.quit();
 		System.out.println("Browser closed");
+		System.out.println("Google Also closed");
 	}
 }
