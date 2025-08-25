@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-25T12:33:54 IST" name="Suite" finished-at="2025-08-25T12:34:02 IST" duration-ms="8514">
+    <groups>
+    </groups>
+    <test started-at="2025-08-25T12:33:54 IST" name="Test" finished-at="2025-08-25T12:34:02 IST" duration-ms="8514">
+      <class name="firstlivetest.firsttest">
+        <test-method signature="f1()[pri:0, instance:firstlivetest.firsttest@3b2cf7ab]" started-at="2025-08-25T12:33:54 IST" name="f1" finished-at="2025-08-25T12:34:02 IST" duration-ms="8444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- firstlivetest.firsttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2025-08-25T12:34:03 IST" name="Suite (0)" finished-at="2025-08-25T12:34:09 IST" duration-ms="6375">
+    <groups>
+    </groups>
+    <test started-at="2025-08-25T12:34:03 IST" name="Test" finished-at="2025-08-25T12:34:09 IST" duration-ms="6375">
+      <class name="firstlivetest.secondtest">
+        <test-method signature="test2()[pri:0, instance:firstlivetest.secondtest@15b204a1]" started-at="2025-08-25T12:34:03 IST" name="test2" finished-at="2025-08-25T12:34:09 IST" duration-ms="6371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- firstlivetest.secondtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
